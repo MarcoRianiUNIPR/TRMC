@@ -52,7 +52,7 @@ To run the .ipynb files inside the agnostic environment jupiter notebook follow 
 
 | FileName | View :eyes:| Run ▶️ | Jupiter notebook |
 | -------- | ---- | --- | ---- |
-|mainTRMC.mlx generate Figures 2 and 3  | [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]() |  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UniprJRC/TRMC&file=mainTRMC.mlx) | [mainTRMC.ipynb](https://github.com/TRMC/blob/main/mainTRMC.ipynb) |
+|mainTRMC.mlx generate Figures 2 and 3  | [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]() |  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UniprJRC/TRMC&file=mainTRMC.mlx) | [mainTRMC.ipynb](https://github.com/MarcoRianiUNIPR/TRMC/blob/main/mainTRMC.ipynb) |
 
 For evident reasons in the input file CRIM.mat the data the names of the provinces are masked and are shown with the labels P1, ..., P108.
 
