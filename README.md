@@ -52,7 +52,7 @@ To run the .ipynb files inside the agnostic environment jupiter notebook follow 
 
 | FileName | View :eyes:| Run ▶️ | Jupiter notebook |
 | -------- | ---- | --- | ---- |
-|mainTRMC.mlx generate Figures 2 and 3  | [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://viewer.mathworks.com/renderer?viewer=live_code&url=https%3A%2F%2Fwww.mathworks.com%2Fmatlabcentral%2Fmlc-downloads%2Fdownloads%2Ff026de45-4ab8-44ed-85a3-1549ae68987b%2F1741169925%2Ffiles%2FsimulatedData.mlx&embed=web) |  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UniprJRC/boot-TCLUST&file=simulatedData.mlx) | [mainTRMC.ipynb](https://github.com/UniprJRC/boot-TCLUST/blob/main/mainTRMC.ipynb) |
+|mainTRMC.mlx generate Figures 2 and 3  | [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]() |  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UniprJRC/TRMC&file=mainTRMC.mlx) | [mainTRMC.ipynb](https://github.com/TRMC/blob/main/mainTRMC.ipynb) |
 
 For evident reasons in the input file CRIM.mat the data the names of the provinces are masked and are shown with the labels P1, ..., P108.
 
