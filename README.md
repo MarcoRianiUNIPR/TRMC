@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-Note: in order to run the files below you need to have [FSDA toolbox](https://https://www.mathworks.com/matlabcentral/fileexchange/72999-fsda-flexible-statistics-data-analysis-toolbox) installed
+Note: in order to run the files below you need to have [FSDA toolbox](https://www.mathworks.com/matlabcentral/fileexchange/72999-fsda-flexible-statistics-data-analysis-toolbox) installed
 
 **Abstract**
 
